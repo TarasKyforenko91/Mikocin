@@ -1,0 +1,162 @@
+
+// для экранов с разрешением от 1024 пикс
+@media screen and (min-width: 1024px) {
+	
+}
+
+// для экранов с разрешением от 960 пикс
+@media screen and (min-width: 960px) {
+
+}
+
+// для экранов с разрешением от 480 пикс
+@media screen and (min-width: 480px) {
+
+}
+
+// для экранов с разрешением до 480 пикс
+@media screen and (max-width: 480px) {
+
+}
+
+
+header {
+	width: 1100px;
+	height: 500px;
+	border: 1px solid yellow;
+}
+
+.wrapper-main {
+	width: 1100px;
+	height: 1000px;
+	border: 1px solid red;
+	margin: 20px auto;
+}
+
+#head-main2 {
+	width: 600px;
+	height: 380px;
+}
+
+#head-main {
+	width: 1100px;
+	height: 380px;
+	margin-left: -605px;
+}
+
+#down-line {
+	width: 1100px;
+	position: relative;
+	top: -12px;
+	border: 1px solid blue;
+}
+
+#circle-1 {
+	width: 310px;
+	height: 385px;
+	top: 57px;
+	left: 605px;
+	position: absolute;
+}
+
+#circle-2 {
+	width: 320px;
+	height: 315px;
+	top: 90px;
+	left: 642px;
+	position: absolute;
+}
+
+#foot {
+	width: 400px;
+	height: 330px;
+	top: 20px;
+	left: 570px;
+	position: absolute;
+}
+
+#pills {
+	width: 410px;
+	height: 230px;
+	top: 295px;
+	left: 660px;
+	position: absolute;
+}
+
+#branch {
+	width: 180px;
+	height: 160px;
+	top: 300px;
+	left: 820px;
+	position: absolute;
+}
+
+#price-1 {
+	width: 30px;
+	height: 17px;
+	top: 297px;
+	left: 864px;
+	position: absolute;
+}
+
+#currency-1 {
+	width: 13px;
+	height: 15px;
+	top: 299px;
+	left: 897px;
+	position: absolute;
+}
+
+#price-2 {
+	width: 30px;
+	height: 17px;
+	top: 372px;
+	left: 925px;
+	position: absolute;
+}
+
+#currency-2 {
+	width: 13px;
+	height: 15px;
+	top: 373px;
+	left: 958px;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
